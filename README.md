@@ -1,6 +1,6 @@
 # LcAnalyzer
 
-![Continuous Integration build in GitHub Actions](https://github.com/sondosmohsen/light-curve-analysis/workflows/CI/badge.svg)
+![Continuous Integration build in GitHub Actions](https://github.com/sondosmohsen/light-curve-analysis/workflows/CI/badge.svg/btuch=main)
 
 ## Purpose
 
